@@ -1,0 +1,21 @@
+{
+	"name": "cli",
+	"version": "1.0.0",
+	"description": "my cli tools",
+	"main": "index.js",
+	"scripts": {
+		"test": "test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/luckduvip/cli.git"
+	},
+	"preferGlobal" : "true",
+	"keywords": [],
+	"author": "luckduvip",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/luckduvip/cli/issues"
+	},
+	"homepage": "https://github.com/luckduvip/cli#readme"
+}
