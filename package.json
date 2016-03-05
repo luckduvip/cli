@@ -1,21 +1,20 @@
 {
-	"name": "cli",
+	"name": "luckduvip-cli",
 	"version": "1.0.0",
 	"description": "my cli tools",
 	"main": "index.js",
 	"scripts": {
-		"test": "test.js"
+		"test": "node index.js"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/luckduvip/cli.git"
+		"url": "git+https://github.com/luckduvip/luckduvip-cli.git"
 	},
-	"preferGlobal" : "true",
-	"keywords": [],
+	"keywords": ["cli"],
 	"author": "luckduvip",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/luckduvip/cli/issues"
+		"url": "https://github.com/luckduvip/luckduvip-cli/issues"
 	},
-	"homepage": "https://github.com/luckduvip/cli#readme"
+	"homepage": "https://github.com/luckduvip/luckduvip-cli#readme"
 }
